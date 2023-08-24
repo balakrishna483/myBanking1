@@ -1,0 +1,6 @@
+Please find the below considerable steps to provide the final available counts for Appended Audience.
+Select records from the below fields based on the provided Flagging,
+Field QS = Flagged as Y
+Field MR = Flagged as Y
+Field lS = Flagged as A, D, E, N
+From the above selected records please proceed with the below steps.
